@@ -1,5 +1,5 @@
-Sonde-B-C
-#########
+# Sonde-B-C
+
 
 Ideate per l’analisi multiparametrica dei parametri essenziali
 dei liquidi quali Livello piezometrico, Temperatura e Conducibilità,
