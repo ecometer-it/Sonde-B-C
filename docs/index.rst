@@ -28,12 +28,6 @@ Component interfaces are provided to allow a frictionless way to get started wit
 
 ----------------------------------------
 
-Documentation
-=============
-
-https://sondebc.readthedocs.io/en/latest/
-
----------------------------------------
 
 .. toctree:: 
     :maxdepth: 3
