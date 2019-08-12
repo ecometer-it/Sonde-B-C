@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'CHANGE-THIS'
-copyright = '2016, CHANGE-THIS'
+project = 'Sonde B&C'
+copyright = '2019, Ecometer'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
