@@ -1,0 +1,74 @@
+============
+4. PROCEDURA
+============
+
+----------------------
+
+Config with baud 2400
+
+
+.. code:: 
+
+    probe_conf.py -p COM3 -b 2400 get_config
+
+Change baud rate
+
+
+.. code:: 
+
+     probe_conf.py -p COM3 -b 2400 set_baud 9600
+
+Set id (by step oh 9)
+
+
+.. code:: 
+
+    probe_conf.py -p COM3 set_id 1
+
+Set time
+
+
+.. code:: 
+
+     probe_conf.py -p COM3 set_date_gmt1
+
+Set storage log time (by step oh 9)
+
+
+.. code:: 
+
+        probe_conf.py -p COM3 set_log_format hours
+        probe_conf.py -p COM3 set_log_value 15
+        probe_conf.py -p COM3 set_log_value 8
+        probe_conf.py -p COM3 set_log_value 1
+
+Set start
+
+
+.. code:: 
+
+     probe_conf.py -p COM3 set_run start
+
+Config
+
+
+.. code:: 
+
+    probe_conf.py -p COM3 get_config
+
+Data 3 parameters
+
+
+.. code:: 
+
+    probe_conf.py -p COM3 get_data 3 last
+
+Data 5 parameters
+
+
+.. code:: 
+
+     probe_conf.py -p COM3 get_data 5 last
+
+
+.. bottom of content
