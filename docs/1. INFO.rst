@@ -12,4 +12,4 @@
 - Location    : Ecometer
 
 
-logo-quadricromia-little.png
+\ |IMGlogo-quadricromia-little.png|\ 
