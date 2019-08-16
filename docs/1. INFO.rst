@@ -11,3 +11,5 @@
 - Description : Rete monitoraggio - **sonde multiparametriche**
 - Location    : Ecometer
 
+
+logo-quadricromia-little.png
