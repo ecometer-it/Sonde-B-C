@@ -17,7 +17,7 @@
 |IMG1|
 
 .. |IMG1| image:: static/logo-quadricromia-little.png
-   :height: 220 px
-   :width: 500 px
+   :height: 110 px
+   :width: 250 px
 
     
