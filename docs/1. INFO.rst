@@ -14,18 +14,10 @@
 
 
 
+|IMG1|
 
-
-|REPLACE1|
-
-
-.. bottom of content
-
-
-.. |REPLACE1| raw:: html
-
-    <img src="https://github.com/ecometer-it/Sonde-B-C/blob/master/docs/static/logo-quadricromia-little.png" />
-
-
+.. |IMG1| image:: static/paesaggi.jpg
+   :height: 348 px
+   :width: 464 px
 
     
