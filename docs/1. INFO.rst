@@ -16,7 +16,7 @@
 
 |IMG1|
 
-.. |IMG1| image:: static/paesaggi.jpg
+.. |IMG1| image:: static/logo-quadricromia-little.png
    :height: 348 px
    :width: 464 px
 
