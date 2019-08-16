@@ -12,7 +12,6 @@
 - Location    : Ecometer
 
 
-
 <img src="https://github.com/ecometer-it/Sonde-B-C/blob/master/docs/static/logo-quadricromia-little.png" />
 
 
